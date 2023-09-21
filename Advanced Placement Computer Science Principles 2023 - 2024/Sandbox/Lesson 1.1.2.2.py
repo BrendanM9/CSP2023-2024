@@ -2,6 +2,7 @@ import turtle as trtl
 
 painter = trtl.Turtle()
 
+painter.speed(0)
 painter.color('black')
 painter.penup()
 painter.right(270)
